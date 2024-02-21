@@ -1,0 +1,6 @@
+Counting objects: 6, done.
+Writing objects: 100% (6/6), 200 bytes | 0 bytes/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/ola/my-first-blog.git
+ * [new branch]      main -> main
+Branch main set up to track remote branch main from origin.
